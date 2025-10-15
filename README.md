@@ -100,8 +100,6 @@ Tell me which of the above (if any) you'd like me to implement next.
 
 ## Screenshots
 
-Below are screenshots of the app (two images per row). Images are shown in the same order you provided.
-
 <p align="center">
 	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115145_fxkdjs.png" alt="Screenshot 1" width="45%" style="margin: 0 1%;" />
 	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115155_gz7f8e.png" alt="Screenshot 2" width="45%" style="margin: 0 1%;" />
