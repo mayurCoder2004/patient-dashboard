@@ -72,6 +72,18 @@ The app is a single-page React application. Patient data is loaded from `src/dat
 
 To persist data beyond a demo, replace the local JSON data with a backend API and update the data-loading code accordingly.
 
+## Screenshots
+
+<p align="center">
+	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115145_fxkdjs.png" alt="Screenshot 1" width="45%" style="margin: 0 1%;" />
+	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115155_gz7f8e.png" alt="Screenshot 2" width="45%" style="margin: 0 1%;" />
+</p>
+
+<p align="center">
+	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115225_iedc1x.png" alt="Screenshot 3" width="45%" style="margin: 0 1%;" />
+	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115240_hjxgfv.png" alt="Screenshot 4" width="45%" style="margin: 0 1%;" />
+</p>
+
 ## Development notes & tips
 
 - Tailwind is already included as a dependency. If you update `tailwind.config.js` or PostCSS settings, restart the dev server.
@@ -97,15 +109,3 @@ If you'd like, I can:
 - add unit tests and a GitHub Actions workflow to run lint/tests on push
 
 Tell me which of the above (if any) you'd like me to implement next.
-
-## Screenshots
-
-<p align="center">
-	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115145_fxkdjs.png" alt="Screenshot 1" width="45%" style="margin: 0 1%;" />
-	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115155_gz7f8e.png" alt="Screenshot 2" width="45%" style="margin: 0 1%;" />
-</p>
-
-<p align="center">
-	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115225_iedc1x.png" alt="Screenshot 3" width="45%" style="margin: 0 1%;" />
-	<img src="https://res.cloudinary.com/dtogfz0uu/image/upload/v1760509412/Screenshot_2025-10-15_115240_hjxgfv.png" alt="Screenshot 4" width="45%" style="margin: 0 1%;" />
-</p>
